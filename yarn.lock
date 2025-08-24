@@ -22,9 +22,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-redux@^4.4.36":
-  version "4.4.36"
-  resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-4.4.36.tgz#5d1e768f3291c66c8e54d8a48e42f7cb554a7d87"
+"@types/react-redux@^4.4.47":
+  version "4.4.47"
+  resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-4.4.47.tgz#12af1677116e08d413fe2620d0a85560c8a0536e"
+  integrity sha512-wyFTmLtEymHCjOmVVvsbNqJaGM9Q0x6sZTQfz4XkDj06P8Xe+ys9wKSQHx2Jt9J5Mi7HZnGcJaMFktn60sXluw==
   dependencies:
     "@types/react" "*"
     redux "^3.6.0"
@@ -33,9 +34,10 @@
   version "15.0.4"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.4.tgz#97aedbba00448a137331aa8450232124aeb8d426"
 
-"@types/react@15.0.14":
-  version "15.0.14"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.14.tgz#07a739b20b0d4cf946f52444d3c40a94d4a234b1"
+"@types/react@^15.6.6":
+  version "15.7.34"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.7.34.tgz#20294b9c6d4188423229c79170afba07bb8bf885"
+  integrity sha512-zf8FeCS3RMYNk4yaXer0LHvpnOvzwN1JyHETjzI1gMqKNWLjPF1hlLFb12rOAAVh1koqTn7lVUTqM+TZKkiExg==
 
 abab@^1.0.3:
   version "1.0.3"
