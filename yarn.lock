@@ -12,9 +12,10 @@
   version "18.1.1"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-18.1.1.tgz#6f63488c64726900885ab9cd5697bb7fa1b416cc"
 
-"@types/node@^7.0.5":
-  version "7.0.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.0.5.tgz#96a0f0a618b7b606f1ec547403c00650210bfbb7"
+"@types/node@^7.10.14":
+  version "7.10.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.14.tgz#06fa7319b8131b969a8da4a14c487e6f28abacf7"
+  integrity sha512-29GS75BE8asnTno3yB6ubOJOO0FboExEqNJy4bpz0GSmW/8wPTNL4h9h63c6s1uTrOopCmJYe/4yJLh5r92ZUA==
 
 "@types/react-dom@^0.14.22":
   version "0.14.22"
@@ -33,9 +34,10 @@
   version "15.0.4"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.4.tgz#97aedbba00448a137331aa8450232124aeb8d426"
 
-"@types/react@15.0.14":
-  version "15.0.14"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.14.tgz#07a739b20b0d4cf946f52444d3c40a94d4a234b1"
+"@types/react@^15.6.6":
+  version "15.7.34"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-15.7.34.tgz#20294b9c6d4188423229c79170afba07bb8bf885"
+  integrity sha512-zf8FeCS3RMYNk4yaXer0LHvpnOvzwN1JyHETjzI1gMqKNWLjPF1hlLFb12rOAAVh1koqTn7lVUTqM+TZKkiExg==
 
 abab@^1.0.3:
   version "1.0.3"
